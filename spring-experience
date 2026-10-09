@@ -1,0 +1,69 @@
+# Dr. Anastasios Savvopoulos
+
+**Principal Solutions Architect | Enterprise Spring Modernization & Cloud-Native Advisory | PhD in ML**
+
+Nuremberg, Germany | asavvopoulos@yahoo.gr | [linkedin.com/in/asavvopoulos](https://www.linkedin.com/in/asavvopoulos)
+
+---
+
+### Executive Profile
+
+Enterprise Solutions Architect and PhD technologist specializing in large-scale **Java/Spring ecosystem modernization**, cloud-native architecture, and automated technical debt remediation. Proven advisor to enterprise CTOs and VPs of Engineering on refactoring monolithic architectures into 12-factor Spring Boot microservices, building portfolio modernization scanners, and establishing automated migration pathways[cite: 2, 7]. Core contributor to the Tanzu **Compass** codebase (integrated into Tanzu Platform as **Portfolio Analysis**) and Subject Matter Expert in **Spring Application Advisor**, guiding US and global enterprise accounts through zero-downtime Java migrations, service mesh networking, dependency governance, and production operations on enterprise Kubernetes[cite: 2, 7].
+
+---
+
+### Enterprise Advisory Competencies
+
+* **Spring Ecosystem Mastery (8+ years):** Spring Boot (1.5x,2.x/3.x migrations), Spring Cloud, Spring Data, Spring Security, Spring Batch, Spring Application Advisor, Spring AI.
+* **Architecture & Modernization (10+ years):** 12-Factor App design, Monolith-to-Microservices decomposition, Domain-Driven Design (DDD), automated OpenRewrite recipes.
+* **Distributed Cloud Systems & Traffic (7+ years):** Kubernetes (AKS/Tanzu), Service Mesh (Istio / Envoy proxy sidecars), Tanzu Application Platform/Service, Event-Driven Architecture, Azure Service Bus, RabbitMQ.
+* **Enterprise Persistence & State (6+ years):** PostgreSQL (tuning, connection pools), Cosmos DB, Redis cache layers, Elasticsearch, MongoDB.
+* **Tooling, Governance & FinOps (8+ years):** Automated Code/Portfolio Analysis (Compass / Portfolio Analysis), SARIF static analysis, CI/CD upgrade automation, DevSecOps, FinOps (35%–55% OpEx reduction).
+
+---
+
+### Consulting & Professional Experience
+
+#### **Broadcom / VMware** | Germany
+
+**Principal Solutions Architect (Cloud-Native & AI Strategy Lead, EMEA Tanzu Services)** *(Aug 2023 – Present)*
+
+* Direct enterprise modernization roadmaps across legacy estates, guiding client organizations in migrating monolithic Java/.NET workloads to containerized, 12-factor **Spring Boot microservices**, boosting resource efficiency by 65% and slashing operational costs by 35% to 55%.
+* Core engineering contributor to the **Compass** assessment tool (integrated into Tanzu Platform as **Portfolio Analysis**), enabling global enterprise clients to scan hundreds of legacy codebases simultaneously to detect anti-patterns and baseline cloud readiness.
+* Serve as an Enterprise Subject Matter Expert (SME) on **Spring Application Advisor**, establishing automated CI/CD upgrade pipelines with curated OpenRewrite recipes to continuously resolve breaking API changes, deprecate legacy Spring dependencies, and eliminate CVEs at scale across enterprise repositories.
+* Engineered a proprietary **Cloud-Native & AI Readiness Scanner** utilizing SARIF-based static code analysis to audit Java/Spring repositories for 12-factor compliance, container readiness, and API tool-calling interfaces.
+* Architected advanced **Service Mesh solutions (Istio / Envoy proxy patterns)** on Tanzu Kubernetes, securing mutual TLS (mTLS) endpoints, fine-tuning traffic routing, and standardizing distributed telemetry across hundreds of decoupled Spring Boot microservices.
+* Deployed enterprise telemetry and distributed tracing suites (Prometheus, Splunk, Datadog), driving an 80% application performance improvement across client Spring estates.
+
+#### **WSAudiology** | Erlangen, Germany
+
+**Principal Engineer & Cloud Modernization Lead** *(Nov 2017 – Jul 2023)*
+
+* Re-architected a legacy healthcare estate into a high-availability, distributed Telehealth platform composed of **50+ Spring Boot and .NET microservices** on Azure Kubernetes Service (AKS), scaling reliably from 200k to 2M+ active global users[cite: 3, 7].
+* Co-authored the official **Microsoft Azure Architecture Center Reference Architecture for Global Telehealth Systems**[cite: 3].
+* Integrated **Service Mesh (Istio)** within AKS to enforce strict healthcare security policies, manage fine-grained traffic routing, and guarantee resilient inter-service communication across the distributed Spring Boot microservices mesh[cite: 7].
+* Architected high-throughput Spring Data persistence and messaging layers utilizing **PostgreSQL** alongside **Azure Service Bus queues and topics**, combined with **Redis** distributed caching and Cosmos DB to handle asynchronous workloads with sub-second latency[cite: 3, 7].
+* Enforced 12-factor design principles, standardized JVM/container resource limits, and tuned database connection pooling, slashing infrastructure OpEx by 43% and lifting system throughput by 28%[cite: 3, 7].
+* Managed and upskilled 200 distributed engineers across 5 global locations on Spring Boot microservices design patterns, Gradle/Maven build pipelines, and automated zero-downtime deployment strategies[cite: 3, 7].
+
+#### **Symanto Group** | Nuremberg, Germany
+
+**Technical Director (High-Growth AI Startup)** *(Nov 2015 – Oct 2017)*
+
+* Led a 30-person cross-functional engineering and data science organization building enterprise-grade, high-throughput analytics platforms[cite: 4, 7].
+* Architected and maintained scalable **Java/Spring backend services** and event-driven ETL pipelines powering machine learning model inference and natural language processing engines processing up to 1M documents per second[cite: 4, 7].
+* Modernized the data ingestion and query layer by connecting Spring backend services to **Elasticsearch** clusters and Azure messaging pipelines, resulting in a 9% increase in corporate revenue and over $80,000 in annual engineering time savings[cite: 4, 7].
+
+#### **Earlier Java Engineering Experience**
+
+* **Sieben Innovative Solutions** | *R&D Manager* (2014 – 2015): Directed architecture and back-end development for Java and cloud-based high-scale retail platforms serving 600k daily active users[cite: 5, 7].
+* **Computer Technology Institute (CTI)** | *Principal Software Engineer* (2012 – 2014): Architected high-traffic Java Spring/MVC platforms and automated enterprise SOAP/REST middleware integrations, driving a 58% increase in platform efficiency[cite: 5, 7].
+* **Hellenic Open University & Research** | *Software Engineer & Java Developer* (2007 – 2012): Engineered distributed Java architectures, multi-agent frameworks (JADE), and academic digital repositories[cite: 5, 6].
+
+---
+
+### Education & Credentials
+
+* **Doctorate (PhD) in Informatics & Machine Learning (Clustering, User Modeling)** – University of Piraeus
+* **BSc in Computer Science & Informatics** – University of Piraeus
+* **Certifications:** Certified SAFe® 4 Practitioner, Microsoft Certified Data Platform & Analytics
